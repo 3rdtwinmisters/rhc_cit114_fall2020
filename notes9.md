@@ -11,8 +11,8 @@
 + Drive architectures using data
 + Improve through game days
 
-+Resource constraints is like space on a hard drive or data speed of a ethernet cable
-+Mitigate deployment risk by fixing issues that don't have desired outcomes with accelerated bug fixing and quality assurance.
++ Resource constraints is like space on a hard drive or data speed of a ethernet cable
++ Mitigate deployment risk by fixing issues that don't have desired outcomes with accelerated bug fixing and quality assurance.
 
 ### Identify two quotes that were made, that you found interesting.
 a. "Successful evolution of operations is founded in: frequent small improvements; providing safe environments and time to experiment, develop, and test improvements; and environments in which learning from failures is encouraged" (13). <br/>
