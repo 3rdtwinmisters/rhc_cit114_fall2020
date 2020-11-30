@@ -1,6 +1,6 @@
 # Final Study Notes
 
-### I. Cloud Concepts Overview
+## I. Cloud Concepts Overview
 
 ### 1. Summarize a few key points made in the readings or videos 
 + Horizontal Scaling: scaling out and scaling in
@@ -19,7 +19,7 @@ b. Cloud consumers experience decreased portability moving data from one cloud p
 c. SaaS applications, such as Microsoft 365, overall performance relies heavily on a user's internet performance. SaaS is often end-user applications often maintained by the service provider. <br/>
 d. The On Premises cloud model, or private cloud, doesn't provide all the benefits of cloud computing but is utilized because of its ability to provide on premise resources.
 
-# II. Cloud Economics, Billing & Support
+## II. Cloud Economics, Billing & Support
 
 ### Summarize a few key points made in the readings or videos.
 + With a Pay-as-you-go pricing model, costs of operation are optimized to total use.
@@ -28,10 +28,6 @@ a. Compute <br/>
 b. Storage <br/>
 c. Outbound data transfer <br/>
 + You do not pay for cloud-based resources that are not being used.
-+ Components of Total Cost of Technology: <br/>
-<pre/>
-a. Hardware Acquisition c. Infrastructure e. Installation g. Training i. Space <br/>
-b. Software Acquisition d. Downtime       f. Maintenance  h. Support  j. ELectricity <br/>
 
 + An Organizational Unit is a container for user accounts.
 + Allow list strategy – You explicitly specify the access that is allowed.
@@ -41,7 +37,7 @@ b. Software Acquisition d. Downtime       f. Maintenance  h. Support  j. ELectri
 a. "One of the main benefits of cloud services is the ability it gives you to optimize costs to match your needs, even as those needs change" (4.01). <br/>
 b. "AWS Organizations includes account management and consolidated billing capabilities that enable you to better meet the budgetary, security, and compliance needs of your business. As an administrator of an organization, you can create accounts in your organization and invite existing accounts to join the organization" (4.16). <br/>
 
-# III. Cloud Global Infrastructure
+## III. Cloud Global Infrastructure
 
 ### Summarize a few key points made in the readings or videos. 
 + A DevOps work environment is very collaborative learning environment
@@ -77,7 +73,7 @@ a. When software was proprietary, was working with the source code limited becau
 
 b. Did the increased use of open source software increase the collaboration between development and operations? <br/>
 
-# IV. Cloud Secuirty with DevOps
+## IV. Cloud Secuirty with DevOps
 
 ### Summarize a few key points made in the readings or videos.
 + Hackers, attackers or intruders exploit vulnerabilities in software to obtain unauthorized access of systems.
@@ -101,7 +97,7 @@ b. "Some AWS Premium Support plans include access to the Trusted Advisor tool, w
 + AWS Account is the main account (root user) IAM users are controlled by a single AWS account
 + AWS Shield is a Ddos protection service minimizing downtime
 
-# V. Networking & Connectivity
+## V. Networking & Connectivity
 
 ### Summarize a few key points made in the readings or videos.
 + Types of Network Topologies Star, Mesh, Ring, Daisy Chain
@@ -122,7 +118,7 @@ b. "An internet gateway serves two purposes: to provide a target in your VPC rou
 + Type “netstat -a” in the command prompt and press ‘Enter’, this lists all the ports being used.
 + The command ‘nslookup’ gives you the IP address of the domain you are looking for. This also provides the information of our DNS Server.
 
-# VI Compute
+## VI Compute
 
 ### Summarize a few key points made in the readings or videos.
 + Types of Operating Systems: Windows, Mac, Linux
@@ -143,7 +139,7 @@ b. "Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, co
 + A virtual machine is a software based computer running on another computer's OS
 + Hypervisor is the software that runs virtual machines
 
-# VII. Storage
+## VII. Storage
 
 ### Summarize a few key points made in the readings or videos. 
 + RAM temporarily stores data while the computer is powered on; temporary saved data is lost when powered off.
@@ -164,7 +160,7 @@ c. HDD cost less than SSD especially for larger storage drives. <br/>
 d. Fault Tolerance is a system designed to reduce failure. <br/>
 e. Cipher text is encrypted text
 
-# VIII. DataBases
+## VIII. DataBases
 
 ### Summarize a few key points made by the readings or video
 + Database is a shared collection of data.
